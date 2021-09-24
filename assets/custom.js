@@ -22,12 +22,16 @@ $(function() {
                 breakpoint: 767,
                 settings: {
                     vertical: false,
+                    slidesPerRow: 1,
+                    slidesToShow: 1,
                 }
             },
             {
                 breakpoint: 479,
                 settings: {
                     vertical: false,
+                    slidesPerRow: 1,
+                    slidesToShow: 1,
                 }
             },
         ]
