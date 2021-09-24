@@ -188,6 +188,10 @@ body {
         /* max-width: 900px; */
         /* margin: 0 auto; */
     }
+    .lap-bg img {
+        max-width: 100%;
+        width: 85% !important;
+    }
 }
 
 @media (min-width: 1400px) {
@@ -452,7 +456,7 @@ text {
 } */
 
 .slider-thumb .slick-slide img {
-    max-width: 95%;
+    max-width: 90%;
     display: inline-block;
 }
 
