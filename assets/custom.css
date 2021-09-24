@@ -84,7 +84,7 @@ body {
     transform: translate3d(0, -3px, 0);
 }
 
-.a_team_up img {
+.a_team_up div {
     max-height: 140px;
     max-width: 215px;
     display: block;
@@ -191,6 +191,9 @@ body {
     .lap-bg img {
         max-width: 100%;
         width: 85% !important;
+    }
+    .agile-img {
+        width: 168px;
     }
 }
 
