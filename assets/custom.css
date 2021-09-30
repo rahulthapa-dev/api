@@ -185,7 +185,7 @@ body {
     .feature-box h3,
     .a_team_up p,
     .wrapper-custom p {
-        font-size: 14px;
+        font-size: 13px;
     }
     .wrapper-custom .feature-box .h5 {
         font-size: 18px;
@@ -197,19 +197,19 @@ body {
         padding: 1.4rem !important;
     }
     .wrapper-custom .btn-custom {
-        padding: .7rem 1.4rem;
+        padding: .7rem 1rem;
     }
     /* font-end */
     div.subscribe-img-section .position-btn {
-        left: 3%;
+        left: 4%;
         top: 27%;
     }
     div.subscribe-img-section .position-btn a {
-        font-size: 1rem;
-        padding: .6rem .8rem !important;
+        font-size: 9px;
+        padding: .3rem .5rem !important;
     }
     .slick-slider {
-        padding-left: 2rem;
+        padding-left: .5rem;
     }
     section.module-gallery .slider-thumb .type-image div {
         padding: 4px;
@@ -221,21 +221,21 @@ body {
 
 @media (min-width:375px) {
     div.subscribe-img-section .position-btn a {
-        font-size: 1.2rem;
+        font-size: 11px;
     }
 }
 
 @media (min-width:414px) {
     div.subscribe-img-section .position-btn a {
-        font-size: 1.3rem;
-        padding: .6rem 1.2rem !important;
+        font-size: 13px;
+        padding: .5rem .5rem !important;
     }
 }
 
 @media (min-width:480px) {
     div.subscribe-img-section .position-btn {
         left: 7%;
-        top: 29%;
+        top: 28%;
     }
 }
 
@@ -258,7 +258,7 @@ body {
 
 @media (min-width: 768px) {
     div.subscribe-img-section .position-btn {
-        left: 8%;
+        left: 9%;
         top: 28%;
     }
     div.subscribe-img-section .position-btn a {
