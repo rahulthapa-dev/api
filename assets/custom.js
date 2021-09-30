@@ -11,7 +11,7 @@ $(function() {
         prevArrow: '<button type="button" class="slick-prev"><i class="fas fa-chevron-up"></i></button>',
         nextArrow: '<button type="button" class="slick-next"><i class="fas fa-chevron-down"></i></button>',
         responsive: [{
-                breakpoint: 1141,
+                breakpoint: 1200,
                 settings: {
                     vertical: false,
                     slidesPerRow: 1,
@@ -46,7 +46,7 @@ $(function() {
         arrows: false,
         draggable: false,
         responsive: [{
-            breakpoint: 1141,
+            breakpoint: 1200,
             settings: {
                 vertical: false,
                 fade: true,
