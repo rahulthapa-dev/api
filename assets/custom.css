@@ -389,6 +389,9 @@ body {
     /* html {
         font-size: .9rem;
     } */
+    .max-w-custom.img-first {
+        max-width: 80%;
+    }
     .wrapper-custom h1,
     .wrapper-custom .h1 {
         font-size: 38px;
