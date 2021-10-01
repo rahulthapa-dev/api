@@ -362,6 +362,9 @@ body {
     .max-w-custom {
         max-width: 68%;
     }
+    .banner-img.max-w-custom {
+        max-width: 62%;
+    }
 }
 
 @media (min-width: 1141px) {
