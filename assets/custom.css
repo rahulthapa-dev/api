@@ -321,7 +321,7 @@ body {
         padding-top: 6rem!important;
     }
     .btn-lngth {
-        width: 520px;
+        /* width: 520px; */
         text-align: center;
     }
     .subscribe-text h1 {
@@ -410,7 +410,7 @@ body {
     .wrapper-custom div.feature-box .h5,
     .a_team_up p,
     .wrapper-custom p {
-        font-size: 20px;
+        font-size: 19px;
     }
     .subscribe-img-section .position-btn a {
         font-size: 16px;
@@ -418,12 +418,18 @@ body {
     .wrapper-custom .card-body {
         padding: 2.4rem !important;
     }
+    .wrapper-custom .feature-wrapper .card-body {
+        padding: 4rem !important;
+    }
+    .wrapper-custom .feature-wrapper .card-body .icon img {
+        max-width: 190px;
+    }
     .slider-preview {
         margin-top: 3rem;
     }
     /*  */
     .btn-lngth {
-        width: 640px;
+        /* width: 640px; */
         text-align: center;
     }
     .fixing-width.img-fluid {
@@ -465,6 +471,12 @@ body {
     } */
     .max-w-custom.img-first {
         max-width: 68% !important;
+    }
+    .wrapper-custom .feature-wrapper .card-body {
+        padding: 5rem !important;
+    }
+    .wrapper-custom .feature-wrapper .card-body .icon img {
+        max-width: 200px;
     }
     .wrapper-custom h1,
     .wrapper-custom .h1 {
@@ -515,6 +527,8 @@ body {
     }
     div.wrapper-custom .card-body {
         padding: 5rem !important;
+        max-width: 1450px !important;
+        margin: 0 auto;
     }
     .wrapper-custom h1,
     .wrapper-custom .h1 {
@@ -536,7 +550,7 @@ body {
     div.feature-box h3,
     .a_team_up p,
     .wrapper-custom p {
-        font-size: 26px !important;
+        font-size: 25px !important;
     }
     div.subscribe-img-section .position-btn {
         top: 29%;
