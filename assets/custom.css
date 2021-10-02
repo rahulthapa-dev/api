@@ -390,7 +390,7 @@ body {
         font-size: .9rem;
     } */
     .max-w-custom.img-first {
-        max-width: 75% !important;
+        max-width: 80% !important;
     }
     .wrapper-custom h1,
     .wrapper-custom .h1 {
@@ -470,7 +470,7 @@ body {
         font-size: 1.4rem;
     } */
     .max-w-custom.img-first {
-        max-width: 68% !important;
+        max-width: 70% !important;
     }
     .wrapper-custom .feature-wrapper .card-body {
         padding: 5rem !important;
