@@ -516,6 +516,10 @@ body {
     .max-w-custom {
         max-width: 65% !important;
     }
+    .row-container {
+        max-width: 1280px;
+        margin: 0 auto;
+    }
 }
 
 @media (min-width: 1900px) {
@@ -527,7 +531,6 @@ body {
     }
     div.wrapper-custom .card-body {
         padding: 5rem !important;
-        max-width: 1450px !important;
         margin: 0 auto;
     }
     .wrapper-custom h1,
