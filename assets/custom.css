@@ -775,7 +775,9 @@ text {
     height: 100%;
     width: 100%;
     min-height: 55px;
-    transform: scale(.8);
+    transform: scale(.7);
+    position: relative;
+    top: -6px;
 }
 
 .module-gallery .slider-thumb li {
